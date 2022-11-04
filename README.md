@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Lucasfer03
+- 👀 I’m interested in build networking and get a job
+- 🌱 I’m currently learning in Rocketseat
+- 💞️ I’m looking to collaborate on : projects, exercises and with companies
+- 📫 How to reach me : email: lucasfdacunha@hotmail.com
