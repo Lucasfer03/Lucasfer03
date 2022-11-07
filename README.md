@@ -1,14 +1,14 @@
 - 👋 Hi, I’m @Lucasfer03
-- I'm a web developer,  I'm studying web development at Rocketseat https://www.rocketseat.com.br/.
-- I'm a full stack dev.
-- Main language: `Javascript`.
-- backend: `Nodejs`.
-- frontend: `Reactjs`, `HTML5`, `CSS`, `Javascript`.
-- Version code control: `Git & Github`
-- Layout design: `Figma`
-- Tolls: `VsCode`
+- 🌐 I'm a web developer,  I'm studying web development at Rocketseat https://www.rocketseat.com.br/.
+- 🧑‍💻 I'm a full stack dev.
+- ⚡️ Main language: `Javascript`.
+- 📡 backend: `Nodejs`.
+- 🎉 frontend: `Reactjs`, `HTML5`, `CSS`, `Javascript`.
+- 📝 Version code control: `Git & Github`
+- 🎨 Layout design: `Figma`
+- 🔨 Tolls: `VsCode`
 - 👀 I’m interested in build networking and get a job.
 - 🌱 I’m currently learning in Rocketseat.
 - 💞️ I’m looking to collaborate on : projects, exercises and with companies.
 - 📫 How to reach me : email: lucasfdacunha@hotmail.com
-- linkedin: https://www.linkedin.com/in/lucas-cunha-b15027253/
+- 📫 linkedin: https://www.linkedin.com/in/lucas-cunha-b15027253/
